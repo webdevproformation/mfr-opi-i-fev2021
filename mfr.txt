@@ -1,0 +1,300 @@
+Hugo : Licence en informatique html / css / js / php / C# || App sous Angular 
+
+Noor : Licence en informatique Liban  C# / html (application dans le milieu hospitalier)
+
+Ibtisam : autoformation html open class room / travaux personnels
+
+-----------------------------
+
+Samir : Wordpress / Divi => conçu un site sur le serveur // pas finalisé 
+	autoformation html open class room
+	SEO / SEA 
+	Faire connaitre son site dans les pages de résultat de Google 
+	=> le mieux classé possible dans sur des recherches réalisées sur Google 
+	Ergonomie => Faire en sorte que l'information soit claire et bien utile 
+
+Mickael : Wordpress en e learning / stratégie marketing digital 
+	  site en ecommerce 
+	 sur le codage novice (va tout découvrir)
+
+Rodrigue : Etudes universitaires (informatique) 
+	css / html / javascript / JAVA 
+	mission dans une entreprise 2ans (en tant que web developpeur => 30 sites)
+	job étudiant => tu cherches à obtenir un diplôme 
+
+DIEM : Cobol très utilisé dans le monde de la banque et assurance
+	MOE =>  Maitre d'Oeuvre (prestataire (celui qui fait) => réaliser le besoin)
+      html / css => très nouveau pour toi !! 
+
+Chimer : Novice ++
+
+Soufian : CM => Community Manager métier faire vivre le site internet 
+	remplir de contenu (texte / image / vidéo) 
+	en faire la promotion du site dans d'autres sites (publicité / partenariat)
+
+=> référencement => trouver son site sur Google 
+=> UX/UI 1
+
+--------------------------- 
+
+Malik HARRIZ
+
+=> 2004 => Excel => VBA (Microsoft => Payant)
+=> Access (base de données + formulaire pour ajouter des données dans la base)
+=> nouvelle version de Access => cassé base de données
+=> plus stable !! 
+=> open source (Wordpress => Linux => MySQL html css js php)
+
+--------------------------- 
+
+les formateurs que vous allez avoir 
+
+formation généraliste => toucher à tous les domaines du web 
+pour adulte => intensive 5 jours 
+
+5 x 7 heures d'un langage html / css
+5 x 7 heures d'un langage javascript
+1 x 7 heures d'un langage jQuery
+
+=> à la fin de la formation tu as vu toutes les technologies de bases pour créer un site internet 
+=> PRO = devis liste de fonctions => temps pour le faire  
+=> travail + le temps de digérer toutes les connaissances vues pendant la formation 
+=> ça dépend 
+
+
+PostGre
+JSON 
+
+--------------------------- 
+
+Site internet = exécutée par deux machines ( ordinateur )
+
+Client => Front (navigateur web)
+informaticien qui maitrise tous les langages liés au Front - qui vont être exécutés
+côté Front 
+langage : HTML / CSS / Javascript 
+librairies : Bootstrap et jQuery
+
+------- AJAX
+
+Server => Back  (ordinateur code sources + base de données )
+
+Langage : PHP 
+Base de données : MySQL SQL 
+=> développeur spécialisé dans les langages PHP / SQL 
+
+------- 
+
+un développeur FullStack => développeur qui va maitriser 
+les langages Front + les langages Back 
+
+
+Stack Overflow
+
+https://emploi.developpez.com/
+https://emploi.alsacreations.com/
+https://www.lesjeudis.com/
+
+https://www.meetup.com/fr-FR/
+https://www.meetup.com/fr-FR/find/tech/
+
+Freelance : 
+https://www.codeur.com/
+=> délocalisation : moins cher MAIS répond pas complètement au besoin 
+demandé par le client 
+grosse charge administrative ( réponses )
+connaitre les types de missions et les technologies recherchées 
+
+=> ne jamais s'inscrire dans ce site 
+=> https://www.progonline.com/ vous devez payer pour pouvoir répondre à des offres
+=> tous les ans => payer (200€)
+=> JAMAIS 
+
+------------------------
+
+Qui paye le site qui apporte les offres ? 
+Prestatataire Facturer 1000 et il doit donner 100
+client qui paie le site 1000 => le site vous paye 900
+
+uber 
+
+------------------------
+
+LinkedIN => IL FAUT OBLIGATOIREMENT avoir un profil (chasseur de tête)
+des sociétés qui cherchent des développeurs le compte de société
+
+------------------------
+
+A connaitre et à éviter 
+
+https://5euros.com/categorie/site-web
+https://www.mturk.com/
+https://developer.amazon.com/fr/
+
+Faire manuellement ce qu'un programme aurait pu faire 
+mais le programme est trop cher à coder)
+- Image ajouter des fiches produits 
+- responsive design pour les fiches produits 
+
+
+=> stage ou embauché 
+
+------------------------
+
+=> Discords serveur Salle 236 IFOCOP
+
+------------------------
+
+9h00 => 12h30
+pause de 15min - 10h30 => 10h45
+
+rdv 10h47 
+
+------------------------
+
+https://insights.stackoverflow.com/survey/2020
+
+stackoverflow.com => le site le plus important 
+cooptation 
+mondiale
+=> gratuit 
+
+------------------------
+
+=> Profil LinkedIN 
+
+------------------------
+
+Rodrogue => Linux => LAMP 
+MacOS => Samir =>  MAMP
+Windows tous les autres  => WAMP / XAMPP
+
+UI User Interface
+UX User eXperience (ergonomie)
+agréable à utiliser 
+
+
+https://discord.gg/eHuhk8e7
+
+
+discord fonctionne soit sur sur votre navigateur / via un logiciel (
+ordinateur / smartphone)
+
+version la plus pratique => logiciel
+
+Forum de discussion privé => partager des informations 
+=> les supports de cours 
+=> liens vers des tutos ....
+
+=> utilisateur de ce forum 
+=> celui qui a une couronne => gestionnaire du serveur 
+=> lui il a un droit en + des autres => créer des salons 
+
+
+pour faciliter les discussions => découper 
+
+
+-------------------------------- 
+
+CM => contenu
+
+outil de codage visuel (Blue Griffon)
+
+-------------------------------- 
+
+DIW => développeur
+
+Notepad++ 
+Sublim Text - Visual Studio => voir en direct 
+
+-------------------------------- 
+
+13h33=> bon appétit !! 
+
+Hello hello !! 
+
+-------------------------------- 
+
+visual studio Code => IDE = Intégrated Development Environment 
+Traitement de texte (Word) mais pour écrire du code information 
+
+outil gratuit / microsoft 
+=> l'outil qui est actuellement le plus à la mode !! 
+
+=> fonctionne sur tous les types des systèmes Linux Mac et Windows
+
+=> https://code.visualstudio.com/ cliquer sur le bouton bleu pour l'installation
+
+une télécharger / une fois installé / démarrer 
+
+dans le bureau de votre ordinateur => créer un dossier qui s'appelle mfr 
+
+=> Visual Studio Code 
+
+=> installer des extensions (plugin) => traduire l'interface du logiciel en Français 
+=> cliquer sur le logo en forme de 4 carrés => 
+=> dans la zone de recherche => french
+French Language Pack for Visual Studio Code
+cliquer sur le bouton Installer => redémarrer le logiciel 
+
+--------------------------
+
+=> cliquer sur le logo en forme de 4 carrés => 
+=> zoom bar => 1.4.0 => installe automatiquement 
+
+--------------------------
+
+live server => 5.6.0 ( comme pour Griffon => voir le résultat dans ton navigateur instantanment)
+
+--------------------------
+
+comment changer le fond de l'écran du logiciel (thème)
+
+cliquer sur la petite roue dentée > thème de couleur > choisir un thème clair / sombre 
+
+si vous n'aimez pas les thèmes proposées => 
+=> cliquer sur le logo en forme de 4 carrés => 
+
+Matérial thème 
+
+=> code beaucoup => plus reposant pour les fond noir et texte clair
+=> intervenant => fond clair et texte sombre 
+
+--------------------------
+
+Créer des fichiers et des dossiers via Visual Studio
+
+=>utiliser le premier bouton => explorateur 
+
+dans la fenêtre de l'explorateur => plusieurs sections
+1 Editeurs ouverts > liste de tous les documents ouverts actuellement dans l'IDE
+2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
