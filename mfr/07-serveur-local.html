@@ -1,0 +1,61 @@
+deux environnements de travail 
+
+=> environnement local => que vous qui voyez le travail 
+
+=> environnement à distant ( sur l'hébergement ) => vous allez voir le travail via une adresse internet https://votre-site.fr
+
+------------------ 
+
+Back => langage qui sont exécutés par le serveur 
+PHP et SQL (base de données)
+
+Front => langage exécuté par le client 
+HTML / CSS / Javascript => Front
+
+pour pouvoir travailler en local sur des langages back => PHP et SQL 
+
+installer un dernier logiciel => serveur local 
+MacOS => MAMP
+windows => WAMP / XAMPP
+Linux => LAMP
+
+
+client => http//google.fr : protocole (port + méthode comm) + domaine ( ip )
+
+serveur => ip 
+    port écoute 80 <=== service Apache  => traiter la requête => renvoyer la réponse
+    port écoute 3306 <=== service MySQL 
+    port écoute 21 <==== FileZilla version serveur
+
+=> PHP => 
+=> SQL => 
+
+
+// -------- 
+
+1 Comment envoyer des fichiers de votre ordinateur vers un hébergement ??
+
+- il faut utiliser un logiciel FTP => FileZilla 
+- envoyer des fichiers depuis le site local (zone en bas à gauche) => vers hébergeur (zone en bas à droite)
+- attention pour envoyer des fichiers vers un hébergeur il faut au préalable avoir de identifiants de connexion, que je vais obtenir lorsque lorsque j'aurai acheté un hébergement + un nom de domaine (pack phpnet !! )
+
+2 qu'est ce qu'il se passe lorsque je fait une demande / requête dans un navigateur web  ?? 
+
+lorsque je suis sur un navigateur web : FireFox / Chrome / Edge 
+dans la barre d'adresse => saisir une adresse internet 
+cette adresse internet est aussi appelé une requête 
+cette adresse est composée de plusieurs parties
+    http:// => protocole 
+    domaine.fr => adresse du serveur sur internet 10.10.10.10 / localhost
+
+cette demande est reçue par le serveur 
+    classer les demandes en fonction du protocole 
+        http => port 80
+        https => port 443
+        ftp => port 21
+        ... 
+        
+chaque port a un logiciel qui va traiter les demandes
+    sur le port 80 => Apache => c'est ce logiciel qui va traiter la demande => renvoyer l'information au client 
+
+le client FireFox / Chrome / Edge  reçoit la demande ET affiche le résultat 
